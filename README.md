@@ -3,7 +3,8 @@ PS04
 
 Here is the output from my code: 
 
-##Frequency Tables
+## Frequency Tables
+
 Spanish Frequency Table:  {'de': 0.046527840244670327, 'que': 0.037420167311325, 'y': 0.032450301340289645, 'la': 0.025411531888099307, 'a': 0.021745974633444274, 'el': 0.020666546730232976, 'en': 0.01947467842043717, 'no': 0.018305298191958263, 'mi': 0.017675631915085005, 'me': 0.014617252855986328}
 
 German Frequency Table:  {'': 0.028916238499223323, 'der': 0.026645955311267774, 'und': 0.02178675269845063, 'die': 0.01792328832596487, 'sie': 0.014497948779224917, 'ich': 0.013940335364639343, 'in': 0.012825108535468196, 'ein': 0.010674313936352412, 'den': 0.01035567769944637, 'er': 0.009997211932927071}
@@ -12,12 +13,14 @@ English Frequency Table:  {'the': 0.06473391580619539, 'and': 0.0343384772495177
 
 Unknown Frequency Table:  {'de': 0.055859375, 'y': 0.03857996323529412, 'la': 0.034903492647058824, 'que': 0.03235294117647059, 'el': 0.029457720588235294, 'a': 0.02297794117647059, 'en': 0.020978860294117645, 'no': 0.012637867647058824, 'los': 0.012362132352941176, 'se': 0.012178308823529412}
 
-##Differences Between Frequencies
+## Differences Between Frequencies
+
 Total word frequency difference between German and Unknown:  0.2722886029411765
 
 Total word frequency difference between English and Unknown:  0.25201920646137727
 
 Total word frequency difference between Spanish Unknown:  0.07175557754022721
 
-##Prediction
+## Prediction
+
 I predict Spanish is the language of the Unknown text
