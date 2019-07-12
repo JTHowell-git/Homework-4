@@ -19,8 +19,8 @@ Total word frequency difference between German and Unknown:  0.2722886029411765
 
 Total word frequency difference between English and Unknown:  0.25201920646137727
 
-Total word frequency difference between Spanish Unknown:  0.07175557754022721
+Total word frequency difference between Spanish and Unknown:  0.07175557754022721
 
 ## Prediction
 
-I predict Spanish is the language of the Unknown text
+I predict Spanish is the language of the Unknown text.
